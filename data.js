@@ -1,0 +1,1 @@
+const entries = [{"title": "Alice in Wonderland", "detail": "Lewis Carroll - currently reading"}, {"title": "The Secret Garden", "detail": "Frances Hodgson Burnett - up next"}, {"title": "Treasure Island", "detail": "Robert Louis Stevenson - on the list"}];
